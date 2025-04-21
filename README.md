@@ -40,15 +40,12 @@ cd Sasspire
 ```
 2. Install the Goodies
 ```bash
-Copy
-Edit
+
 pip install -r requirements.txt
 ```
 3. Drop in Your API Key
 Create a .env file and slide in your OpenAI key:
-```ini
-Copy
-Edit
+```bash
 OPENAI_API_KEY=your_openai_key_here
 ```
 Keep it secret. Keep it safe. 🔐
