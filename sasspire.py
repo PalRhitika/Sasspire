@@ -41,7 +41,7 @@ def chat_with_openai(user_input):
         response =client.chat.completions.create(
             model="gpt-4o-mini",
             messages=chat_history,
-            max_tokens=150,
+            max_tokens=1500,
             temperature=0.8,
             top_p=0.9,
             n=1,
