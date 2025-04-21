@@ -37,24 +37,26 @@ Yeah, she switches gears faster than your Wi-Fi during a Zoom call.
 ```bash
 git clone https://github.com/PalRhitika/Sasspire.git
 cd Sasspire
+```
 2. Install the Goodies
-bash
+```bash
 Copy
 Edit
 pip install -r requirements.txt
+```
 3. Drop in Your API Key
 Create a .env file and slide in your OpenAI key:
-
-ini
+```ini
 Copy
 Edit
 OPENAI_API_KEY=your_openai_key_here
+```
 Keep it secret. Keep it safe. 🔐
 
 4. Launch the Sass
-bash
+```bash
 Copy
 Edit
 python sasspire.py
-
+```
 #Enjoy 💁‍♀️
