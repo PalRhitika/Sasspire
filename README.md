@@ -52,8 +52,7 @@ Keep it secret. Keep it safe. 🔐
 
 4. Launch the Sass
 ```bash
-Copy
-Edit
+
 python sasspire.py
 ```
 #Enjoy 💁‍♀️
